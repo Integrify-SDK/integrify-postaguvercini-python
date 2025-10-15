@@ -1,5 +1,6 @@
 Posta Guvercini:
   - Ümumi məlumat: "integrations/posta-guvercini/about.md"
+  - Mühit dəyişənləri: "integrations/posta-guvercini/env.md"
   - API Referansı:
     - API Klient: "integrations/posta-guvercini/api-reference/client.md"
     - Schemas:

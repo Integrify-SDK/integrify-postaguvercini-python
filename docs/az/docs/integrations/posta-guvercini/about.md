@@ -1,12 +1,11 @@
 # Posta Guvercini
 
+???+ warning
+    Bu sorğulardan istifadə edə bilmək üçün, düzgün "environment variable"-ları quraşdırmalısınız. Daha ətraflı [burdan](./env.md) oxuya bilərsiniz.
+
 ## Rəsmi Dokumentasiya (v1) { #official-documentation }
 
 [İngliscə](https://www.poctgoyercini.com/api_json/swagger/ui/index#/)
-
-## İstifadəsi { #usage }
-
-Bu sorğulardan istifadə etmək üçün, bu dəyərləri "environment variable"-larına əlavə etməlisiniz: `POSTA_GUVERCINI_USERNAME`, `POSTA_GUVERCINI_PASSWORD`, `POSTAGUVERCINI_MESSAGE_ID`
 
 ## Sorğular listi { #list-of-requests }
 

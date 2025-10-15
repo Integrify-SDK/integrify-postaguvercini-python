@@ -67,7 +67,7 @@ pip install integrify-epoint
 
 ## İstifadəsi
 
-Bu sorğulardan istifadə etmək üçün, bu dəyərləri "environment variable"-larına əlavə etməlisiniz: `POSTA_GUVERCINI_USERNAME`, `POSTA_GUVERCINI_PASSWORD`, `POSTAGUVERCINI_MESSAGE_ID`
+Bu sorğulardan istifadə edə bilmək üçün, düzgün "environment variable"-ları quraşdırmalısınız. Daha ətraflı [burdan](https://integrify.mmzeynalli.dev/integrations/posta-guvercini/env.md) oxuya bilərsiniz.
 
 ### Sorğular listi
 
