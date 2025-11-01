@@ -1,5 +1,5 @@
 Posta Guvercini:
-  - "integrations/posta-guvercini/about.md"
+  - "integrations/posta-guvercini/index.md"
   - "integrations/posta-guvercini/env.md"
   - API Referansı:
     - "integrations/posta-guvercini/api-reference/client.md"
