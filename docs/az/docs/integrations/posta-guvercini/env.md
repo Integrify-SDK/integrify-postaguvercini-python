@@ -1,4 +1,4 @@
-# PostaGuvercini mühit dəyişənləri
+# Mühit dəyişənləri
 
 ## Haqqında
 

@@ -1,4 +1,4 @@
-# Posta Guvercini klientinin API Reference-i
+# API Clientinin
 
 ???+ note
 
